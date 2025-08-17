@@ -19,4 +19,4 @@ A mesmerizing 3D interactive gallery showcasing beautiful cat photos with smooth
 ## 🚀 Installation  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/cat-gallery.git
+   git clone https://github.com/VijinaVNair/cat-gallery.git
