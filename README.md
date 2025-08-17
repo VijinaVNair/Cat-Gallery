@@ -2,7 +2,8 @@
 
 A mesmerizing 3D interactive gallery showcasing beautiful cat photos with smooth hover animations. Built with pure HTML and CSS.  
 
-![Preview](https://user-images.githubusercontent.com/your-username/your-repo/main/preview.gif) *Replace with your own GIF/screenshot*  
+## 🌟 Live Demo
+![Live](https://github.com/VijinaVNair/Cat-Gallery/blob/fc266a6cc0a0abfa0e8bb8c71f5b44c7182a5be3/gif.gif)  
 
 ## ✨ Features  
 - **3D Hover Effects**: Photos pop out and tilt dynamically on hover.  
